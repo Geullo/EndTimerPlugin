@@ -1,0 +1,12 @@
+name: GeulloTimerPlugin
+main: com.geullo.timer.Main
+version: 0.1
+description: Geullo Timer
+author: Geullo
+depend: []
+commands:
+  gtimer:
+    description: Geullo Timer command
+    usage: /<command>
+    permission:
+    permission-message: You do not have permission
